@@ -1,6 +1,7 @@
 const User  = require('../model/user');
 const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
+const {v4: uuidv4} = require('uuid');
 require('dotenv').config();
 
 const createUser = async (req, res) => {
@@ -60,12 +61,7 @@ const loginUser = async (req, res) => {
         }
         
         // Create token
-        const token = jwt.sign(
-            {userId: user.id, email: user.email}, process.env.TOKEN_KEY,
-            {
-                expiresIn: '1m' // Two months
-            }
-        );
+        const token = uuidv4(); 
         
         // Save and update Token
         user.token = token;
@@ -117,10 +113,14 @@ const findUser = async (req, res) => {
 
     try {
         const {token} = req.body;
+        console.log('Token: ');
+        console.log(token);
 
         const user = await User.findOne({
             where: {token: token}
         });
+
+        console.log(user);
 
         if (!user) {
             throw new Error('Token not valid');
@@ -133,15 +133,37 @@ const findUser = async (req, res) => {
         console.error(error);
         res.status(500).json({'error': 'Server error'});
     }
-
-
-
 }
+
+const logoutUser = async (req, res) => {
+
+    const {email} = req.body;
+
+    try {
+        const user = await User.findOne({
+            where: {email: email}
+        });
+
+        if (!user) {
+            res.status(401).json({'error': 'User not found'});
+        }
+
+        user.token = null;
+        await user.save();
+        res.status(200).json({'message': 'Good bye'});
+
+    } catch (error) {
+        console.log(`Error: ${error}`);
+        console.error(error);
+        res.send(500).json({'error': 'Server error'});
+    }
+};
 
 
 module.exports = {
     createUser,
     loginUser,
     updateUser,
-    findUser
+    findUser,
+    logoutUser
 }
