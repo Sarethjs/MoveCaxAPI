@@ -63,7 +63,7 @@ const loginUser = async (req, res) => {
         const token = jwt.sign(
             {userId: user.id, email: user.email}, process.env.TOKEN_KEY,
             {
-                expiresIn: '1440h' // Two months
+                expiresIn: '1m' // Two months
             }
         );
         
@@ -113,9 +113,35 @@ const updateUser = async (req, res) => {
     }
 };
 
+const findUser = async (req, res) => {
+
+    try {
+        const {token} = req.body;
+
+        const user = await User.findOne({
+            where: {token: token}
+        });
+
+        if (!user) {
+            throw new Error('Token not valid');
+        }
+
+        res.status(200).json(user);
+
+    } catch(error) {
+        console.log(`Error: ${error}`);
+        console.error(error);
+        res.status(500).json({'error': 'Server error'});
+    }
+
+
+
+}
+
 
 module.exports = {
     createUser,
     loginUser,
-    updateUser
+    updateUser,
+    findUser
 }
