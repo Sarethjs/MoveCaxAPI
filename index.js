@@ -6,9 +6,10 @@ const sequelize = require('./config/database');
 const User = require('./model/user');
 
 const { API_PORT } = process.env;
-const port = 80;
+const port = 8080;
 
 // Connect to database
+User.sync();
 
 
 // Mapping models
