@@ -9,6 +9,22 @@ const createUser = async (req, res) => {
     const {names, lastnames, email, password, dateBorn, sex} = req.body;
 
     try {
+
+        console.log(`Creating user with: ${email}`);
+
+        // Validate if user exists
+        const user = await User.findOne({
+            where: {
+                email: email
+            }
+        });
+
+        if (user){
+            res.status(500).json({'error': 'El correo ya está en uso'});
+            console.log(`Create operation failed, email already in use: ${email}`);
+            return;
+        }
+
         // Salt for hash
         const salt = await bcrypt.genSalt();
 
@@ -25,6 +41,7 @@ const createUser = async (req, res) => {
             sex: sex
         });
 
+        console.log(`User created with: ${newUser.email}`);
         res.status(201).json(newUser);
 
     } catch (error) {
@@ -43,6 +60,7 @@ const loginUser = async (req, res) => {
     const {email, password} = req.body;
 
     try {
+        console.log(`Trying loggin: ${email}`);
         const user = await User.findOne({
             where: {
                 email: email
@@ -51,6 +69,7 @@ const loginUser = async (req, res) => {
 
         if (!user){
             res.status(404).json({'error': 'Usuario no existe'});
+            console.log(`Loggin failed, user doesn't exists ${email}`);
             return;
         }
         
@@ -59,6 +78,7 @@ const loginUser = async (req, res) => {
 
         if (!passIsCorrect){
             res.status(401).json({'error': 'Contraseña incorrecta'});
+            console.log(`Loggin failed, password incorrect ${email}`);
             return;
         }
         
@@ -128,6 +148,8 @@ const findUser = async (req, res) => {
     try {
         const {token} = req.body;
 
+        console.log(`Loggin by token ${token}`);
+
         const user = await User.findOne({
             where: {token: token}
         });
@@ -150,6 +172,9 @@ const logoutUser = async (req, res) => {
     const {email} = req.body;
 
     try {
+
+        console.log(`Closing session for ${email}`);
+
         const user = await User.findOne({
             where: {email: email}
         });

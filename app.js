@@ -1,4 +1,5 @@
 const express = require('express');
+const audit = require('express-requests-logger');
 const app = express();
 
 
@@ -6,6 +7,7 @@ const app = express();
 const userRouter = require('./routes/user');
 
 app.use(express.json());
+//app.use(audit());
 
 // Routers
 app.use('/users', userRouter);

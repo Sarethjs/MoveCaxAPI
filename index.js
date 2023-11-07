@@ -9,7 +9,7 @@ const { API_PORT } = process.env;
 const port = 8080;
 
 // Connect to database
-User.sync();
+//User.sync();
 
 
 // Mapping models
