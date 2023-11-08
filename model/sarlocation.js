@@ -21,4 +21,10 @@ class SarLocation {
 
         return haversine(start, end, {unit: 'meters'});
     }
+
+    toString() {
+        return `SarLocation {lat: ${this.lat}, lon: ${this.lon}, identifier: ${this.routeIdentifier}}`;
+    }
 }
+
+module.exports = SarLocation;
