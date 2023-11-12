@@ -4,7 +4,7 @@ const gpxParser = require('gpxparser');
 const SarLocation = require('./model/sarlocation');
 
 const gpxFiles = [
-    './public/gpx_files/test.gpx',
+    './public/gpx_files/p13.gpx',
 ];
 
 function gpxToJson() {

@@ -18,10 +18,12 @@ class RouteManager {
             // Read file
             try {
                 const data = fs.readFileSync(`./public/geojson/${file}`, 'utf8');
+                // console.log(data);
                 const jsonObject = JSON.parse(data);
+                console.log(file + ' parsed');
 
                 // Convert jsonObject to SarLocation
-                const locations = jsonObject['points'];
+                const locations = jsonObject;
                 console.log(`Points lenght: ${locations.length}`);
 
                 for (let i = 0; i < locations.length; i++) {
