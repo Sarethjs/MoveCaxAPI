@@ -4,7 +4,7 @@ const gpxParser = require('gpxparser');
 const SarLocation = require('./model/sarlocation');
 
 const gpxFiles = [
-    './public/gpx_files/p13.gpx',
+    './public/gpx_files/ruta_san_martin.gpx',
 ];
 
 function gpxToJson() {
