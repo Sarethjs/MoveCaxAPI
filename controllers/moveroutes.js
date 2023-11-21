@@ -20,7 +20,7 @@ const getBestRoute = async (req, res) => {
         res.setHeader('Content-Type', 'application/json');
         res.setHeader('Content-Dispositon', 'attachment; file="best_route.json');
 
-        const fileStream = fs.createReadStream(`./public/geojson/${routeId}.json`);
+        const fileStream = fs.createReadStream(`./public/roads/${routeId}.json`);
         fileStream.pipe(res);
 
 

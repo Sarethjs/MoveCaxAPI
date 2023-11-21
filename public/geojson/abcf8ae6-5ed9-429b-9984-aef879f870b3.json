@@ -1,0 +1,3437 @@
+[
+    {
+        "lat": -7.162993,
+        "lon": -78.46219,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.163008,
+        "lon": -78.462224,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.16302,
+        "lon": -78.462252,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.163039,
+        "lon": -78.462296,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.163066,
+        "lon": -78.462357,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.163132,
+        "lon": -78.462511,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.163219,
+        "lon": -78.462715,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.16324,
+        "lon": -78.462762,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.163346,
+        "lon": -78.46301,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.163448,
+        "lon": -78.463247,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.163527,
+        "lon": -78.463432,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.163555,
+        "lon": -78.463496,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.163669,
+        "lon": -78.463762,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.163769,
+        "lon": -78.463993,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.163868,
+        "lon": -78.464224,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.163875,
+        "lon": -78.464241,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.163916,
+        "lon": -78.464339,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.163928,
+        "lon": -78.464367,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164012,
+        "lon": -78.464562,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164192,
+        "lon": -78.464981,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164232,
+        "lon": -78.465074,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164383,
+        "lon": -78.465425,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164386,
+        "lon": -78.465431,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164517,
+        "lon": -78.465736,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164522,
+        "lon": -78.46575,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164543,
+        "lon": -78.465798,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164584,
+        "lon": -78.465893,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164586,
+        "lon": -78.465898,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164621,
+        "lon": -78.466008,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.16468,
+        "lon": -78.466196,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164691,
+        "lon": -78.466422,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164697,
+        "lon": -78.466523,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164708,
+        "lon": -78.466753,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164711,
+        "lon": -78.466811,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164727,
+        "lon": -78.467172,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164741,
+        "lon": -78.467476,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164753,
+        "lon": -78.467756,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164759,
+        "lon": -78.467889,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164775,
+        "lon": -78.468283,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164779,
+        "lon": -78.468408,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164782,
+        "lon": -78.468422,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164779,
+        "lon": -78.468408,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164721,
+        "lon": -78.46862,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164697,
+        "lon": -78.468682,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164677,
+        "lon": -78.468731,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.16465,
+        "lon": -78.468826,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.16465,
+        "lon": -78.468833,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.16465,
+        "lon": -78.46891,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164667,
+        "lon": -78.468988,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164681,
+        "lon": -78.469021,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.16471,
+        "lon": -78.469092,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164731,
+        "lon": -78.469185,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164741,
+        "lon": -78.46923,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164753,
+        "lon": -78.469423,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164756,
+        "lon": -78.469487,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164765,
+        "lon": -78.469744,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164779,
+        "lon": -78.470157,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164784,
+        "lon": -78.470322,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164791,
+        "lon": -78.470616,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164805,
+        "lon": -78.471202,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164829,
+        "lon": -78.472267,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164834,
+        "lon": -78.4725,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164844,
+        "lon": -78.472895,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164847,
+        "lon": -78.473057,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164859,
+        "lon": -78.473923,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164871,
+        "lon": -78.474831,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164886,
+        "lon": -78.474907,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164887,
+        "lon": -78.474943,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164901,
+        "lon": -78.475439,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164911,
+        "lon": -78.475781,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164947,
+        "lon": -78.477016,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.16496,
+        "lon": -78.477504,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164978,
+        "lon": -78.478115,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165002,
+        "lon": -78.478959,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165002,
+        "lon": -78.479136,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165004,
+        "lon": -78.479199,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.16502,
+        "lon": -78.479695,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165047,
+        "lon": -78.480488,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165057,
+        "lon": -78.480802,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.16507,
+        "lon": -78.481459,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165101,
+        "lon": -78.482995,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165122,
+        "lon": -78.484069,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165147,
+        "lon": -78.485341,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165168,
+        "lon": -78.486413,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165178,
+        "lon": -78.486957,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165194,
+        "lon": -78.487426,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165228,
+        "lon": -78.488496,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165245,
+        "lon": -78.489026,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165263,
+        "lon": -78.489562,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165273,
+        "lon": -78.489891,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.16529,
+        "lon": -78.490632,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165314,
+        "lon": -78.491672,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165332,
+        "lon": -78.492472,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.16534,
+        "lon": -78.493121,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.16534,
+        "lon": -78.493128,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.16535,
+        "lon": -78.493874,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165355,
+        "lon": -78.494228,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165356,
+        "lon": -78.494538,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165356,
+        "lon": -78.494561,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165331,
+        "lon": -78.494746,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165325,
+        "lon": -78.494774,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165287,
+        "lon": -78.494939,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165282,
+        "lon": -78.494957,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165274,
+        "lon": -78.494966,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165243,
+        "lon": -78.494997,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165236,
+        "lon": -78.495002,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165224,
+        "lon": -78.495024,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165212,
+        "lon": -78.495068,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165212,
+        "lon": -78.495109,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165212,
+        "lon": -78.495112,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165225,
+        "lon": -78.495155,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165228,
+        "lon": -78.49516,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.16525,
+        "lon": -78.495193,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165284,
+        "lon": -78.495221,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165286,
+        "lon": -78.495226,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165308,
+        "lon": -78.495324,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165338,
+        "lon": -78.495453,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165361,
+        "lon": -78.495548,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165371,
+        "lon": -78.495594,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165398,
+        "lon": -78.495771,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165398,
+        "lon": -78.495777,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165396,
+        "lon": -78.495958,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165398,
+        "lon": -78.495996,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165403,
+        "lon": -78.496132,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165405,
+        "lon": -78.496182,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165412,
+        "lon": -78.496413,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165419,
+        "lon": -78.496622,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165425,
+        "lon": -78.496808,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165431,
+        "lon": -78.497023,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165441,
+        "lon": -78.497339,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165441,
+        "lon": -78.49734,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165441,
+        "lon": -78.497414,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165448,
+        "lon": -78.497572,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165464,
+        "lon": -78.498013,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165465,
+        "lon": -78.498057,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.16547,
+        "lon": -78.498301,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165475,
+        "lon": -78.49855,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165481,
+        "lon": -78.498897,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165489,
+        "lon": -78.499314,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165494,
+        "lon": -78.499572,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.1655,
+        "lon": -78.499874,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165504,
+        "lon": -78.500106,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165505,
+        "lon": -78.50014,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165513,
+        "lon": -78.500403,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165527,
+        "lon": -78.500912,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165533,
+        "lon": -78.501156,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165537,
+        "lon": -78.501248,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165547,
+        "lon": -78.501517,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165548,
+        "lon": -78.501559,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165548,
+        "lon": -78.501854,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.16555,
+        "lon": -78.50191,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165557,
+        "lon": -78.502164,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165556,
+        "lon": -78.502194,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165553,
+        "lon": -78.502279,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165552,
+        "lon": -78.502289,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165534,
+        "lon": -78.502353,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165522,
+        "lon": -78.502393,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165518,
+        "lon": -78.502404,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.1655,
+        "lon": -78.502424,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165491,
+        "lon": -78.502432,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165481,
+        "lon": -78.502453,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165473,
+        "lon": -78.502466,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165464,
+        "lon": -78.502503,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165465,
+        "lon": -78.502509,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165464,
+        "lon": -78.502503,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.16541,
+        "lon": -78.502556,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165401,
+        "lon": -78.502563,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165364,
+        "lon": -78.502591,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165349,
+        "lon": -78.502601,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165307,
+        "lon": -78.502618,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165275,
+        "lon": -78.50263,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165261,
+        "lon": -78.502638,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165239,
+        "lon": -78.50265,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165117,
+        "lon": -78.502716,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.165021,
+        "lon": -78.502767,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164769,
+        "lon": -78.502902,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164721,
+        "lon": -78.502927,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164471,
+        "lon": -78.503055,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164234,
+        "lon": -78.503176,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164185,
+        "lon": -78.5032,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.164004,
+        "lon": -78.503298,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.163852,
+        "lon": -78.50338,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.16377,
+        "lon": -78.503419,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.163686,
+        "lon": -78.503458,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.163654,
+        "lon": -78.503473,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.163587,
+        "lon": -78.503504,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.163529,
+        "lon": -78.503531,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.163499,
+        "lon": -78.503545,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.163482,
+        "lon": -78.503552,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.163433,
+        "lon": -78.503575,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.163365,
+        "lon": -78.503606,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.163392,
+        "lon": -78.50365,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.163365,
+        "lon": -78.503606,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.163314,
+        "lon": -78.503637,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.163271,
+        "lon": -78.503663,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.163211,
+        "lon": -78.5037,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.163172,
+        "lon": -78.503723,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.163088,
+        "lon": -78.503774,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.162982,
+        "lon": -78.503838,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.162948,
+        "lon": -78.503859,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.162904,
+        "lon": -78.503885,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.162844,
+        "lon": -78.503922,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.162777,
+        "lon": -78.503962,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.16269,
+        "lon": -78.504015,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.162645,
+        "lon": -78.504041,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.1626,
+        "lon": -78.504071,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.162546,
+        "lon": -78.504107,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.162443,
+        "lon": -78.504174,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.162424,
+        "lon": -78.504188,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.162345,
+        "lon": -78.504245,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.162273,
+        "lon": -78.504297,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.162208,
+        "lon": -78.504343,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.16216,
+        "lon": -78.504378,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.162047,
+        "lon": -78.504459,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.161963,
+        "lon": -78.504518,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.161938,
+        "lon": -78.504536,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.161718,
+        "lon": -78.504683,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.161623,
+        "lon": -78.504746,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.161502,
+        "lon": -78.504834,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.161408,
+        "lon": -78.504901,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.161287,
+        "lon": -78.504987,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.161214,
+        "lon": -78.505038,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.161069,
+        "lon": -78.505144,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.161068,
+        "lon": -78.505144,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.160647,
+        "lon": -78.505445,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.160637,
+        "lon": -78.50545,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.160395,
+        "lon": -78.505563,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.160149,
+        "lon": -78.505677,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.15991,
+        "lon": -78.505788,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.159843,
+        "lon": -78.505818,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.159665,
+        "lon": -78.505893,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.159421,
+        "lon": -78.505996,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.159417,
+        "lon": -78.505997,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.159366,
+        "lon": -78.506017,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.159243,
+        "lon": -78.506063,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.15922,
+        "lon": -78.506072,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.159012,
+        "lon": -78.506147,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.158986,
+        "lon": -78.506156,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.15876,
+        "lon": -78.506237,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.158717,
+        "lon": -78.506252,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.158259,
+        "lon": -78.506418,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.158202,
+        "lon": -78.506438,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.158021,
+        "lon": -78.506506,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.157773,
+        "lon": -78.506598,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.157527,
+        "lon": -78.506689,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.157412,
+        "lon": -78.506732,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.157372,
+        "lon": -78.506746,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.1572,
+        "lon": -78.506712,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.156865,
+        "lon": -78.506646,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.15653,
+        "lon": -78.50658,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.156117,
+        "lon": -78.506498,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.15586,
+        "lon": -78.506447,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.155677,
+        "lon": -78.506419,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.155529,
+        "lon": -78.506397,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.155397,
+        "lon": -78.506376,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.155089,
+        "lon": -78.506329,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.155022,
+        "lon": -78.506318,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.154787,
+        "lon": -78.506281,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.154516,
+        "lon": -78.506239,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.154317,
+        "lon": -78.506207,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.154264,
+        "lon": -78.5062,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.153962,
+        "lon": -78.506155,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.153968,
+        "lon": -78.506168,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.153962,
+        "lon": -78.506155,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.15365,
+        "lon": -78.506187,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.153273,
+        "lon": -78.506225,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.15324,
+        "lon": -78.506229,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.152808,
+        "lon": -78.506276,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.15273,
+        "lon": -78.506284,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.152405,
+        "lon": -78.506315,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.152115,
+        "lon": -78.506342,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.152037,
+        "lon": -78.506349,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.151969,
+        "lon": -78.506355,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.151932,
+        "lon": -78.506359,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.151917,
+        "lon": -78.506361,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.151305,
+        "lon": -78.506418,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.151276,
+        "lon": -78.50642,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.151191,
+        "lon": -78.506432,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.151004,
+        "lon": -78.506459,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.15081,
+        "lon": -78.506485,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.150524,
+        "lon": -78.506528,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.150309,
+        "lon": -78.506559,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.15015,
+        "lon": -78.506594,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149834,
+        "lon": -78.506663,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149676,
+        "lon": -78.506703,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.14952,
+        "lon": -78.506742,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149272,
+        "lon": -78.506807,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149053,
+        "lon": -78.506863,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148995,
+        "lon": -78.506879,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148934,
+        "lon": -78.506894,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148855,
+        "lon": -78.506928,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148667,
+        "lon": -78.507004,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148647,
+        "lon": -78.507016,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148324,
+        "lon": -78.507199,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147994,
+        "lon": -78.507386,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.14772,
+        "lon": -78.507541,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147604,
+        "lon": -78.507606,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147389,
+        "lon": -78.50774,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147039,
+        "lon": -78.507957,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.146803,
+        "lon": -78.508103,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.146643,
+        "lon": -78.508202,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.146618,
+        "lon": -78.508217,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.146657,
+        "lon": -78.508297,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.146661,
+        "lon": -78.508305,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.146701,
+        "lon": -78.508383,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.146761,
+        "lon": -78.508499,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.146792,
+        "lon": -78.50856,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.146844,
+        "lon": -78.508659,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.146845,
+        "lon": -78.508662,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.146888,
+        "lon": -78.508764,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.146922,
+        "lon": -78.508847,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.146973,
+        "lon": -78.508969,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147016,
+        "lon": -78.509071,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147016,
+        "lon": -78.509073,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.14708,
+        "lon": -78.509199,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147139,
+        "lon": -78.509316,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147176,
+        "lon": -78.509391,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147237,
+        "lon": -78.509512,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147261,
+        "lon": -78.50956,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147305,
+        "lon": -78.509647,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147374,
+        "lon": -78.509785,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147462,
+        "lon": -78.50996,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.14747,
+        "lon": -78.509976,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147507,
+        "lon": -78.510052,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.14757,
+        "lon": -78.510183,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147635,
+        "lon": -78.510317,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147668,
+        "lon": -78.510385,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147725,
+        "lon": -78.510504,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147778,
+        "lon": -78.510614,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147813,
+        "lon": -78.510685,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147843,
+        "lon": -78.510749,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147871,
+        "lon": -78.510808,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.14794,
+        "lon": -78.510954,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148019,
+        "lon": -78.511122,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148077,
+        "lon": -78.511247,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148141,
+        "lon": -78.511383,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148207,
+        "lon": -78.511525,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148219,
+        "lon": -78.51155,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148222,
+        "lon": -78.511552,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148312,
+        "lon": -78.511589,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148392,
+        "lon": -78.511623,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148485,
+        "lon": -78.511661,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148606,
+        "lon": -78.511712,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148711,
+        "lon": -78.511756,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148828,
+        "lon": -78.511805,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148918,
+        "lon": -78.511842,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149066,
+        "lon": -78.511904,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149153,
+        "lon": -78.51194,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149237,
+        "lon": -78.511975,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149338,
+        "lon": -78.512017,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149423,
+        "lon": -78.512053,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149524,
+        "lon": -78.512095,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149525,
+        "lon": -78.512095,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149427,
+        "lon": -78.512164,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149298,
+        "lon": -78.512234,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149525,
+        "lon": -78.512095,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149427,
+        "lon": -78.512164,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149349,
+        "lon": -78.512207,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149525,
+        "lon": -78.512095,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149427,
+        "lon": -78.512164,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.14941,
+        "lon": -78.512174,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149525,
+        "lon": -78.512095,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149482,
+        "lon": -78.512126,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149427,
+        "lon": -78.512164,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149193,
+        "lon": -78.51229,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149142,
+        "lon": -78.512317,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149108,
+        "lon": -78.512335,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149102,
+        "lon": -78.512338,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149082,
+        "lon": -78.512365,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149064,
+        "lon": -78.512388,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149055,
+        "lon": -78.512408,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149028,
+        "lon": -78.512464,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149017,
+        "lon": -78.512486,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.14902,
+        "lon": -78.512491,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149017,
+        "lon": -78.512486,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148957,
+        "lon": -78.512572,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148962,
+        "lon": -78.51258,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149023,
+        "lon": -78.512674,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149107,
+        "lon": -78.512803,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149159,
+        "lon": -78.512885,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149182,
+        "lon": -78.512922,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149321,
+        "lon": -78.513149,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149392,
+        "lon": -78.513264,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149403,
+        "lon": -78.513278,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149633,
+        "lon": -78.513563,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149823,
+        "lon": -78.513798,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.14983,
+        "lon": -78.513807,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.14999,
+        "lon": -78.514018,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.150181,
+        "lon": -78.514269,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.150322,
+        "lon": -78.514454,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.150331,
+        "lon": -78.514465,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.150334,
+        "lon": -78.514462,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.150331,
+        "lon": -78.514465,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.150243,
+        "lon": -78.514579,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.150149,
+        "lon": -78.514701,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.150047,
+        "lon": -78.514832,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149936,
+        "lon": -78.514975,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149818,
+        "lon": -78.515127,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149742,
+        "lon": -78.515226,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.14973,
+        "lon": -78.51524,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149614,
+        "lon": -78.515388,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.14947,
+        "lon": -78.515569,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149335,
+        "lon": -78.51574,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149317,
+        "lon": -78.515761,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.149283,
+        "lon": -78.515791,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.14916,
+        "lon": -78.5159,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148956,
+        "lon": -78.51608,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148858,
+        "lon": -78.516166,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148804,
+        "lon": -78.516213,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148771,
+        "lon": -78.516242,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148602,
+        "lon": -78.516384,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148586,
+        "lon": -78.516396,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148471,
+        "lon": -78.516485,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148299,
+        "lon": -78.516618,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148164,
+        "lon": -78.516721,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148032,
+        "lon": -78.516822,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148037,
+        "lon": -78.516829,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148111,
+        "lon": -78.516929,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148219,
+        "lon": -78.517074,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148301,
+        "lon": -78.517183,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148389,
+        "lon": -78.517303,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148477,
+        "lon": -78.517421,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148629,
+        "lon": -78.517625,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148774,
+        "lon": -78.517821,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148875,
+        "lon": -78.517956,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148906,
+        "lon": -78.517998,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148907,
+        "lon": -78.517998,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148906,
+        "lon": -78.517998,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148791,
+        "lon": -78.518068,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148683,
+        "lon": -78.518132,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148642,
+        "lon": -78.51815,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148462,
+        "lon": -78.518224,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148365,
+        "lon": -78.518251,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148213,
+        "lon": -78.518292,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148164,
+        "lon": -78.518305,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148087,
+        "lon": -78.518311,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147845,
+        "lon": -78.518327,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147835,
+        "lon": -78.518327,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147762,
+        "lon": -78.518352,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147738,
+        "lon": -78.518356,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147603,
+        "lon": -78.518375,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147414,
+        "lon": -78.518402,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147361,
+        "lon": -78.518409,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147246,
+        "lon": -78.51843,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147099,
+        "lon": -78.518457,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147044,
+        "lon": -78.518466,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.146942,
+        "lon": -78.518506,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.14684,
+        "lon": -78.518545,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.146768,
+        "lon": -78.518582,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.146676,
+        "lon": -78.518628,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.146648,
+        "lon": -78.518641,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.146556,
+        "lon": -78.518686,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.146369,
+        "lon": -78.518775,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.146288,
+        "lon": -78.518814,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.14613,
+        "lon": -78.518889,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.146027,
+        "lon": -78.518938,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.146011,
+        "lon": -78.518945,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.145951,
+        "lon": -78.518967,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.145922,
+        "lon": -78.518977,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.14592,
+        "lon": -78.518977,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.145977,
+        "lon": -78.51935,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.145995,
+        "lon": -78.519467,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.146026,
+        "lon": -78.519671,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.146058,
+        "lon": -78.51988,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.146064,
+        "lon": -78.519911,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.146077,
+        "lon": -78.519976,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.146119,
+        "lon": -78.52014,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.146195,
+        "lon": -78.520377,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.14621,
+        "lon": -78.520427,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.14624,
+        "lon": -78.520482,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.14636,
+        "lon": -78.5207,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.146456,
+        "lon": -78.520874,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.146561,
+        "lon": -78.521066,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.146572,
+        "lon": -78.521086,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.146669,
+        "lon": -78.521262,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.146685,
+        "lon": -78.521288,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.146817,
+        "lon": -78.521493,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.146958,
+        "lon": -78.521715,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147068,
+        "lon": -78.521888,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147143,
+        "lon": -78.522006,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147171,
+        "lon": -78.52205,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147225,
+        "lon": -78.522138,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147332,
+        "lon": -78.52231,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147395,
+        "lon": -78.522413,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147456,
+        "lon": -78.522511,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147511,
+        "lon": -78.5226,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147529,
+        "lon": -78.522644,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147546,
+        "lon": -78.522687,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147597,
+        "lon": -78.522792,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147655,
+        "lon": -78.52291,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147755,
+        "lon": -78.523118,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147784,
+        "lon": -78.523177,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147836,
+        "lon": -78.523287,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147906,
+        "lon": -78.523437,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147959,
+        "lon": -78.52355,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148021,
+        "lon": -78.523683,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148038,
+        "lon": -78.523725,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148123,
+        "lon": -78.523935,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148127,
+        "lon": -78.52395,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148123,
+        "lon": -78.523935,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148115,
+        "lon": -78.52403,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148109,
+        "lon": -78.524072,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148095,
+        "lon": -78.524154,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.148086,
+        "lon": -78.524157,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147949,
+        "lon": -78.524191,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147802,
+        "lon": -78.524227,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147675,
+        "lon": -78.524258,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147469,
+        "lon": -78.524309,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147303,
+        "lon": -78.524349,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147216,
+        "lon": -78.524363,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.147118,
+        "lon": -78.524378,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.146957,
+        "lon": -78.524417,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.146428,
+        "lon": -78.524545,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.146336,
+        "lon": -78.524567,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.146189,
+        "lon": -78.524595,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.146173,
+        "lon": -78.524599,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.14597,
+        "lon": -78.524636,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.145911,
+        "lon": -78.524647,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.145639,
+        "lon": -78.524694,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.145611,
+        "lon": -78.524698,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.145369,
+        "lon": -78.524733,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.145293,
+        "lon": -78.524744,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.145292,
+        "lon": -78.524744,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.14513,
+        "lon": -78.524734,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.144854,
+        "lon": -78.524717,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.144854,
+        "lon": -78.524717,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.144595,
+        "lon": -78.524722,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.144414,
+        "lon": -78.524724,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.144415,
+        "lon": -78.524726,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.144414,
+        "lon": -78.524724,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.144237,
+        "lon": -78.524769,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.143926,
+        "lon": -78.524847,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.143778,
+        "lon": -78.524883,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.143669,
+        "lon": -78.524932,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.143535,
+        "lon": -78.524991,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.143446,
+        "lon": -78.525038,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.143208,
+        "lon": -78.525163,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.142986,
+        "lon": -78.525279,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.142963,
+        "lon": -78.525289,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.142815,
+        "lon": -78.525352,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.142718,
+        "lon": -78.525387,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.142556,
+        "lon": -78.525445,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.142499,
+        "lon": -78.525466,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.142474,
+        "lon": -78.525473,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.142073,
+        "lon": -78.525578,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.141955,
+        "lon": -78.5256,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.141831,
+        "lon": -78.525622,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.141755,
+        "lon": -78.525625,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.141677,
+        "lon": -78.525628,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.14141,
+        "lon": -78.525635,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.141388,
+        "lon": -78.525635,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.141153,
+        "lon": -78.525665,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.141126,
+        "lon": -78.525668,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.141011,
+        "lon": -78.525681,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.140884,
+        "lon": -78.525689,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.1407,
+        "lon": -78.525699,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.140625,
+        "lon": -78.525698,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.140359,
+        "lon": -78.525692,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.140359,
+        "lon": -78.525692,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.140097,
+        "lon": -78.52565,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.13986,
+        "lon": -78.525612,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.139837,
+        "lon": -78.525608,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.139791,
+        "lon": -78.5256,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.13957,
+        "lon": -78.525554,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.139311,
+        "lon": -78.5255,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.138797,
+        "lon": -78.525394,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.138555,
+        "lon": -78.525343,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.138536,
+        "lon": -78.52534,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.138273,
+        "lon": -78.525286,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.138003,
+        "lon": -78.52523,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.1378,
+        "lon": -78.525188,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.137746,
+        "lon": -78.525174,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.137486,
+        "lon": -78.525102,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.137272,
+        "lon": -78.525042,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.137235,
+        "lon": -78.525028,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.137151,
+        "lon": -78.524995,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.137139,
+        "lon": -78.524988,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.137002,
+        "lon": -78.524913,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.136888,
+        "lon": -78.524851,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.136878,
+        "lon": -78.524845,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.136769,
+        "lon": -78.524746,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.136637,
+        "lon": -78.524625,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.136559,
+        "lon": -78.524552,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.136471,
+        "lon": -78.524473,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.136442,
+        "lon": -78.524445,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.136437,
+        "lon": -78.524441,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.136312,
+        "lon": -78.524402,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.13631,
+        "lon": -78.524403,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.136144,
+        "lon": -78.524421,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.136033,
+        "lon": -78.524433,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.135877,
+        "lon": -78.524464,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.135701,
+        "lon": -78.524497,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.135628,
+        "lon": -78.524508,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.135367,
+        "lon": -78.524544,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.135093,
+        "lon": -78.524582,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.135017,
+        "lon": -78.524592,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.134822,
+        "lon": -78.524594,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.134686,
+        "lon": -78.524595,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.134495,
+        "lon": -78.524578,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.134276,
+        "lon": -78.524557,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.134122,
+        "lon": -78.524542,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.133756,
+        "lon": -78.524551,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.133501,
+        "lon": -78.524557,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.133491,
+        "lon": -78.524557,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.133073,
+        "lon": -78.524649,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.132532,
+        "lon": -78.524768,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.132383,
+        "lon": -78.5248,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.131947,
+        "lon": -78.524894,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.131442,
+        "lon": -78.525001,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.131418,
+        "lon": -78.525006,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.131068,
+        "lon": -78.525063,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.131027,
+        "lon": -78.525058,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.130904,
+        "lon": -78.52504,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.13087,
+        "lon": -78.525035,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.130435,
+        "lon": -78.524869,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.130074,
+        "lon": -78.524731,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.129923,
+        "lon": -78.524673,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.129703,
+        "lon": -78.524558,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.129923,
+        "lon": -78.524673,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.130304,
+        "lon": -78.524819,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.129923,
+        "lon": -78.524673,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.129677,
+        "lon": -78.524544,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.129285,
+        "lon": -78.524241,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.129084,
+        "lon": -78.524086,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.128947,
+        "lon": -78.524003,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.128907,
+        "lon": -78.523978,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.128795,
+        "lon": -78.523935,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.128689,
+        "lon": -78.523894,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.128562,
+        "lon": -78.523844,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.128351,
+        "lon": -78.523765,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.12815,
+        "lon": -78.523689,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.128116,
+        "lon": -78.523685,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.127633,
+        "lon": -78.523627,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.127616,
+        "lon": -78.523628,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.12721,
+        "lon": -78.523646,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.127061,
+        "lon": -78.52364,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.126867,
+        "lon": -78.523602,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.126603,
+        "lon": -78.523549,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.126369,
+        "lon": -78.523554,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.126152,
+        "lon": -78.523602,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.125853,
+        "lon": -78.523667,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.125804,
+        "lon": -78.523672,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.125545,
+        "lon": -78.523698,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.125286,
+        "lon": -78.523723,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.124823,
+        "lon": -78.523823,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.124706,
+        "lon": -78.523847,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.124554,
+        "lon": -78.523933,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.124365,
+        "lon": -78.52404,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.124353,
+        "lon": -78.524054,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.124192,
+        "lon": -78.524214,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.124133,
+        "lon": -78.524323,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.124086,
+        "lon": -78.524407,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.123975,
+        "lon": -78.524712,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.123974,
+        "lon": -78.524713,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.123789,
+        "lon": -78.524905,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.123399,
+        "lon": -78.525114,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.122547,
+        "lon": -78.52557,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.121667,
+        "lon": -78.52604,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.121243,
+        "lon": -78.526266,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.12078,
+        "lon": -78.526541,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.120101,
+        "lon": -78.526942,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.119643,
+        "lon": -78.527253,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.119146,
+        "lon": -78.527672,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.11858,
+        "lon": -78.528271,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.118531,
+        "lon": -78.528321,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.118373,
+        "lon": -78.528511,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.118148,
+        "lon": -78.52875,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.118043,
+        "lon": -78.52881,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.118007,
+        "lon": -78.52882,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.117932,
+        "lon": -78.528838,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.117653,
+        "lon": -78.528889,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.117342,
+        "lon": -78.528933,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.117313,
+        "lon": -78.528936,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.117086,
+        "lon": -78.529007,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.116809,
+        "lon": -78.529111,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.116589,
+        "lon": -78.529228,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.116479,
+        "lon": -78.529286,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.116354,
+        "lon": -78.529351,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.116353,
+        "lon": -78.529352,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.116354,
+        "lon": -78.529351,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.1163,
+        "lon": -78.529219,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.116243,
+        "lon": -78.529082,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.116159,
+        "lon": -78.528839,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.116048,
+        "lon": -78.52852,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.115974,
+        "lon": -78.52831,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.115849,
+        "lon": -78.527951,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    },
+    {
+        "lat": -7.115747,
+        "lon": -78.527658,
+        "identifier": "abcf8ae6-5ed9-429b-9984-aef879f870b3"
+    }
+]

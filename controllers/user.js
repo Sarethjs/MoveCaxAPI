@@ -208,7 +208,7 @@ const restorePassword = async (req, res) => {
 
     const { email } = req.body;
 
-    console.log('Restoring password...');
+    console.log('Restoring password... for email: ' + email);
 
     try {
         const user = await User.findOne({
@@ -228,7 +228,7 @@ const restorePassword = async (req, res) => {
             user.password = encryptedPassword;
             await user.save();
 
-            sgMail.setApiKey('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')
+            sgMail.setApiKey('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');
             const msg = {
                 to: user.email, // Change to your recipient
                 from: 'movecax1003@hotmail.com', // Change to your verified sender
@@ -509,20 +509,24 @@ const restorePassword = async (req, res) => {
             sgMail
                 .send(msg)
                 .then(() => {
-                    res.status(200).json({ 'msg': 'Revisar tu email' });
+                    res.status(200).json({ 
+                        'msg': 'Revisar tu email, se ha enviado una contraseña temporal' 
+                    });
                     console.log(`Email sent to: ${user.email}`);
                 })
                 .catch((error) => {
+                    res.status(500).json({'error': 'No se ha podido enviar el email'});
+                    console.log('Error sending email...');
                     console.error(error)
                 });
 
         } else {
             console.log('Invalid request, email doesn\'t exist');
-            res.status(404).json({ '': 'El email no existe' });
+            res.status(404).json({ 'error': 'El email no existe' });
         }
 
     } catch (err) {
-        res.status(500).json({ 'error': `${err}` });
+        res.status(500).json({ 'error': `Error desconocido` });
         console.log('Error finding user');
         console.err(err);
     }

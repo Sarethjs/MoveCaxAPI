@@ -1,0 +1,615 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Markazi+Text&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Markazi+Text&family=Marko+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Markazi+Text&family=Marko+One&family=Nunito+Sans:opsz,wght@6..12,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Markazi+Text&family=Marko+One&family=Nunito&family=Nunito+Sans:opsz,wght@6..12,700&display=swap');
+
+.desktop {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 2915px;
+  position: relative;
+}
+
+.desktop .overlap {
+  position: absolute;
+  width: 1440px;
+  height: 832px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .frame {
+  position: relative;
+  width: 1440px;
+  height: 832px;
+  background-color: #000000;
+  border-radius: 50px;
+  overflow: hidden;
+}
+
+.desktop .image {
+  position: absolute;
+  width: 286px;
+  height: 618px;
+  top: 145px;
+  left: 1069px;
+  object-fit: cover;
+}
+
+.desktop .text-wrapper {
+  position: absolute;
+  width: 731px;
+  top: 600px;
+  left: 74px;
+  font-family: 'Markazi Text', serif;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .captura-de-pantalla {
+  width: 153px;
+  height: 81px;
+  top: 36px;
+  left: 62px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .div-wrapper {
+  position: absolute;
+  width: 286px;
+  height: 50px;
+  top: 36px;
+  left: 1069px;
+  background-color: #6441a4;
+  border-radius: 50px;
+  overflow: hidden;
+  font-size: 12px; /* Tamaño de fuente más pequeño, puedes ajustar este valor según tus preferencias */
+}
+
+
+.desktop .text-wrapper-2 {
+  position: absolute;
+  width: 172px;
+  top: 4px;
+  left: 57px;
+  font-family: 'Markazi Text', serif;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .conectando-a {
+  position: absolute;
+  width: 911px;
+  top: 170px;
+  left: 74px;
+  font-family: 'Caveat', cursive;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 90px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .p {
+  position: absolute;
+  width: 1150px;
+  top: 820px;
+  left: 34px;
+  font-family: 'Marko One', serif;
+  font-weight: 400;
+  color: #6441a4;
+  font-size: 70px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .overlap-group {
+  position: absolute;
+  width: 435px;
+  height: 279px;
+  top: 1057px;
+  left: 973px;
+  border-radius: 50px;
+}
+
+.desktop .fondo {
+  background-color: #d1cade;
+  position: absolute;
+  width: 435px;
+  height: 279px;
+  top: 0;
+  left: 0;
+  border-radius: 50px;
+  overflow: hidden;
+}
+
+.desktop .group {
+  position: relative;
+  width: 389px;
+  height: 257px;
+  top: 11px;
+  left: 34px;
+}
+
+.desktop .overlap-group-2 {
+  position: relative;
+  width: 385px;
+  height: 257px;
+}
+
+.desktop .text-wrapper-3 {
+  position: absolute;
+  width: 376px;
+  top: 144px;
+  left: 0;
+  font-family: "Nunito-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-4 {
+  position: absolute;
+  width: 385px;
+  top: 98px;
+  left: 0;
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 700;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .img {
+  position: absolute;
+  width: 115px;
+  height: 101px;
+  top: 0;
+  left: 136px;
+}
+
+.desktop .group-wrapper {
+  background-color: #baadd1;
+  position: absolute;
+  width: 435px;
+  height: 279px;
+  top: 0;
+  left: 0;
+  border-radius: 50px;
+  overflow: hidden;
+}
+
+.desktop .overlap-group-wrapper {
+  position: relative;
+  width: 389px;
+  height: 159px;
+  top: 109px;
+  left: 34px;
+}
+
+.desktop .overlap-group-3 {
+  position: relative;
+  width: 385px;
+  height: 159px;
+}
+
+.desktop .text-wrapper-5 {
+  position: absolute;
+  width: 376px;
+  top: 47px;
+  left: 0;
+  font-family: "Nunito-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-6 {
+  position: absolute;
+  width: 385px;
+  top: 0;
+  left: 0;
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 700;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .i {
+  position: absolute;
+  width: 111px;
+  height: 113px;
+  top: 4px;
+  left: 162px;
+  object-fit: cover;
+}
+
+.desktop .overlap-2 {
+  position: absolute;
+  width: 1440px;
+  height: 783px;
+  top: 1427px;
+  left: 0;
+}
+
+.desktop .frame-2 {
+  position: absolute;
+  width: 1440px;
+  height: 679px;
+  top: 0;
+  left: 0;
+  background-color: #000000;
+  border-radius: 50px;
+  overflow: hidden;
+}
+
+.desktop .text-wrapper-7 {
+  position: absolute;
+  width: 737px;
+  top: 22px;
+  left: 28px;
+  font-family: 'Marko One', serif;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 70px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .reg-strate-para {
+  position: absolute;
+  width: 506px;
+  height: 309px;
+  top: 243px;
+  left: 848px;
+  font-family: 'Marko One', serif;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .image-wrapper {
+  position: absolute;
+  width: 226px;
+  height: 453px;
+  top: 194px;
+  left: 139px;
+  background-image: url(./img/image-7-2.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.desktop .image-2 {
+  position: absolute;
+  width: 198px;
+  height: 434px;
+  top: 7px;
+  left: 13px;
+}
+
+.desktop .img-wrapper {
+  position: absolute;
+  width: 211px;
+  height: 453px;
+  top: 201px;
+  left: 536px;
+  background-image: url(./img/image-2.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.desktop .image-3 {
+  position: absolute;
+  width: 191px;
+  height: 421px;
+  top: 13px;
+  left: 10px;
+  object-fit: cover;
+}
+
+.desktop .frame-3 {
+  position: absolute;
+  width: 1440px;
+  height: 748px;
+  top: 35px;
+  left: 0;
+  background-color: #000000;
+  border-radius: 50px;
+  overflow: hidden;
+}
+
+.desktop .group-2 {
+  position: absolute;
+  width: 226px;
+  height: 453px;
+  top: 194px;
+  left: 139px;
+  background-image: url(./img/image-7.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.desktop .group-3 {
+  position: absolute;
+  width: 211px;
+  height: 453px;
+  top: 201px;
+  left: 536px;
+  background-image: url(./img/image-2-2.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.desktop .text-wrapper-8 {
+  position: absolute;
+  width: 1046px;
+  top: 155px;
+  left: 34px;
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 700;
+  color: #6441a4;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .overlap-wrapper {
+  position: absolute;
+  width: 424px;
+  height: 279px;
+  top: 1057px;
+  left: 33px;
+  background-color: #baadd1;
+  border-radius: 50px;
+  overflow: hidden;
+}
+
+.desktop .overlap-3 {
+  position: relative;
+  width: 416px;
+  height: 278px;
+  top: 8px;
+  left: 24px;
+}
+
+.desktop .text-wrapper-9 {
+  position: absolute;
+  width: 380px;
+  top: 140px;
+  left: 0;
+  font-family: "Nunito-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-10 {
+  position: absolute;
+  width: 416px;
+  top: 104px;
+  left: 0;
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 700;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .i-2 {
+  position: absolute;
+  width: 145px;
+  height: 105px;
+  top: 0;
+  left: 116px;
+  object-fit: cover;
+}
+
+.desktop .overlap-4 {
+  position: absolute;
+  width: 459px;
+  height: 298px;
+  top: 1057px;
+  left: 498px;
+}
+
+.desktop .frame-4 {
+  position: absolute;
+  width: 434px;
+  height: 279px;
+  top: 0;
+  left: 0;
+  background-color: #baadd1;
+  border-radius: 50px;
+}
+
+.desktop .group-4 {
+  position: absolute;
+  width: 420px;
+  height: 287px;
+  top: 11px;
+  left: 39px;
+}
+
+.desktop .text-wrapper-11 {
+  position: absolute;
+  width: 366px;
+  top: 140px;
+  left: 0;
+  font-family: "Nunito-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-12 {
+  position: absolute;
+  width: 416px;
+  top: 70px;
+  left: 0;
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 700;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .image-4 {
+  position: absolute;
+  width: 100px;
+  height: 99px;
+  top: 0;
+  left: 122px;
+  object-fit: cover;
+}
+
+.desktop .overlap-5 {
+  position: absolute;
+  width: 1350px;
+  height: 486px;
+  top: 2247px;
+  left: 58px;
+}
+
+.desktop .overlap-6 {
+  position: absolute;
+  width: 1350px;
+  height: 486px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .text-wrapper-13 {
+  position: absolute;
+  width: 1350px;
+  top: 0;
+  left: 0;
+  font-family: 'Marko One', serif;
+  font-weight: 400;
+  color: #000000;
+  font-size: 70px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-14 {
+  position: absolute;
+  width: 516px;
+  top: 100px;
+  left: 821px;
+  font-family: 'Markazi Text', serif;
+  font-weight: 400;
+  color: #6441a4;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .image-5 {
+  position: absolute;
+  width: 269px;
+  height: 260px;
+  top: 226px;
+  left: 960px;
+  object-fit: cover;
+}
+
+.desktop .frame-5 {
+  position: absolute;
+  width: 302px;
+  height: 63px;
+  top: 293px;
+  left: 31px;
+  background-color: #6441a4;
+  border-radius: 50px;
+  overflow: hidden;
+}
+
+#download-btn {
+  text-decoration: none;
+  color: white;
+}
+
+.desktop .text-wrapper-15 {
+  position: absolute;
+  width: 104px;
+  top: 16px;
+  left: 99px;
+  font-family: 'Markazi Text', serif;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .frame-6 {
+  position: absolute;
+  width: 1440px;
+  height: 232px;
+  top: 2763px;
+  left: 0;
+  background-color: #000000;
+  border-radius: 50px;
+  overflow: hidden;
+}
+
+.desktop .text-wrapper-16 {
+  position: absolute;
+  top: 115px;
+  left: 578px;
+  font-family: "Marko One-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .captura-de-pantalla-2 {
+  width: 140px;
+  height: 76px;
+  top: 40px;
+  left: 49px;
+  position: absolute;
+  object-fit: cover;
+}
